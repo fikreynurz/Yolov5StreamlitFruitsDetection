@@ -5,8 +5,10 @@
 
 ## ✨ Features
 
+- Weight Models (Download in GDrive)
+  -	 Models (https://drive.google.com/drive/folders/1ZcNK19zdurjICn1XNfcJjj6N5_UNeJoU?usp=sharing)
 - Example Dataset (Download in GDrive)
-  -	 Images (https://drive.google.com/drive/folders/18cgYlhxRM0DbzH0Oi5nE9-cJ7ZJOEdDV?usp=sharing)
+  -	 Images (https://drive.google.com/drive/folders/1ZcNK19zdurjICn1XNfcJjj6N5_UNeJoU?usp=sharing)
  - Upload Data 
    - Image
 - Select computing device (cuda/cpu)
