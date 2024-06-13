@@ -35,7 +35,7 @@
 Edit config in [app.py](https://github.com/fikreynurz/Yolov5StreamlitFruitsDetection/blob/main/app.py)
 ```python
 ## CFG
-cfg_model_path = "models/your_model_name.pt" 
+cfg_model_path = "models/Fruits.pt" 
 ```
 
 ## Reference
